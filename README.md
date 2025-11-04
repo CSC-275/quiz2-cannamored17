@@ -67,7 +67,7 @@ Create a class definition for a <b>Cylinder</b> object which will inherit from t
 </ul></ul></ul>
 
 ## UML Diagram
-<img src="UML_Class_Diagram.PNG" alt="UML Diagram" width="250">
+<img src="UML_Class_Diagram.PNG" alt="UML Diagram" width="650">
 
 ## Interface Prototype Example
 
